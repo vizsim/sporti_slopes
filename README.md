@@ -1,3 +1,7 @@
 # sporti_slopes
 
-https://vizsim.github.io/sporti_slopes/sprti_height_profiles_th.html
+## sample
+https://vizsim.github.io/sporti_slopes/sporti_height_profiles_thueringen_sample.html
+
+## full (slow) 
+https://vizsim.github.io/sporti_slopes/sporti_height_profiles_thueringen.html
